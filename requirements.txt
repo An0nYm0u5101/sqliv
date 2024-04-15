@@ -2,3 +2,4 @@ bs4
 termcolor
 terminaltables
 nyawc
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
